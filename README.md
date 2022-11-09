@@ -1,4 +1,4 @@
-### Olá eu sou o Marcos Barboza 👋
+### Olá! eu sou o Marcos Barboza.👋
 
 - 🌱 Iniciante em programação 
 - 👯 Estou procurando por oportunidades de aprendizagem e trabalho
