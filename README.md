@@ -1,20 +1,27 @@
-### Olá! eu sou o Marcos Barboza.👋
-
-- 🌱 Iniciante em programação 
-- 👯 Estou procurando por oportunidades de aprendizagem e trabalho
-- 🤔 Preciso de um mentor 
+<h1 align="center">Olá 👋, sou Marcos Barboza</h1>
+<h3 align="center">Um desenvolvedor apaixonado do Brasil</h3>
 
 
-<div align="left">
-  <a href="https://github.com/MarksBarboza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarksBarboza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarksBarboza&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
-<div alingn="center">
- <a href="https://www.instagram.com/marksbarboza/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/marksbarboza" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- 
-  <a href = "mailto:marcos.mscb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcos-barboza-76120b1aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
+
+- 🌱 Atualmente estou aprendendo **programação básica**
+
+- 📫 Como para entrar em contato comigo **marcos.mscb@gmail.com**
+
+- 👯 Estou procurando por oportunidades de aprendizagem e trabalho.
+
+- 🤔 Preciso de um mentor.
+
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://twitter.com /marksbarboza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marksbarboza" height="30" width="40" /></a>
+<a href="https://fb.com/marcosmitonokishiino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/facebook.svg" alt="marcosmitonokishiino" height="30" width="40" /></a>
+<a href="https://instagram.com/marksbarboza " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg " alt="marksbarboza" height="30" width="40" /></a>
+</p>
+
+
+
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=marksbarboza&show_icons=true&locale=en" alt="marksbarboza" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marksbarboza&" alt="marksbarboza" /></p>
