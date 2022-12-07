@@ -1,0 +1,44 @@
+<meta charset="UTF-8">
+
+
+
+
+<script>
+
+    function pulaLinha() {
+        document.write("<br>");
+    }
+
+    function mostra(frase) {
+
+        document.write(frase);
+        pulaLinha();
+    }
+
+    var anoCopa = 1930;
+    var limite = parseInt(prompt("Em que ano de copa do mundo estamos?"));
+
+    while(anoCopa <= limite) {
+        if (anoCopa == 1958) {
+        mostra(" Em 1958 o Brasil foi <b>Campeão!</b>");
+        } else if (anoCopa == 1962){ 
+        mostra(" Em 1962 o Brasil foi <b>Bicampeão!</b> ");
+        } else if (anoCopa == 1970) {
+        mostra(" Em 1970 o Brasil foi <b>Tricampeão!</b>");
+        } else if (anoCopa == 1994) {
+        mostra("Em 1994 o Brasil foi <b>Tetracampeão!</b>");
+        } else if (anoCopa == 2002){
+        mostra("Em 2002 o Brasil foi <b>Pentacampeão</b>");
+        } else if (anoCopa == 2022) {
+		mostra("Em 2022 <strong>o Brasil vai ser Hexacampeão!!!</strong>");
+		} else {
+          mostra("Em " + anoCopa + " teve copa!");
+        }
+
+    anoCopa = anoCopa + 4;
+    }
+
+    mostra("<h1> Esse ano tem HEXAAAAA!</h1> " + limite);
+
+
+</script>
