@@ -4,7 +4,7 @@
 
 
 
-- 🌱 Atualmente estou aprendendo **programação básica**
+- 🌱 Atualmente estou aprendendo **HTML5\\CSS3\\JavaScript - para atuar como Front-end**
 
 - 📫 Como para entrar em contato comigo **marcos.mscb@gmail.com**
 
