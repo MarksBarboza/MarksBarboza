@@ -10,7 +10,6 @@
 
 - 👯 Estou procurando por oportunidades de aprendizagem e trabalho.
 
-- 🤔 Preciso de um mentor.
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
