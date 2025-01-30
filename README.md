@@ -4,7 +4,7 @@
 
 
 
-- 🌱 Atualmente estou cursando programação para atuar como Desenvolvedor FullStack** **HTML5\\CSS3\\JavaScript
+- 🌱 Atualmente estou cursando programação para atuar como **Desenvolvedor FullStack** *HTML5\\CSS3\\JavaScript*
 
 - 📫 Como para entrar em contato comigo **marcos.mscb@gmail.com**
 
